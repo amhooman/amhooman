@@ -9,7 +9,7 @@ I have games there.
 On this github, I have fnf games and an unblocked version of my site that I rarely update but probably will soon.
 https://p3plzcpnl489510.prod.phx3.secureserver.net:2083/cpsess5618607049/frontend/paper_lantern/filemanager/editit.html?file=index.html&fileop=&dir=%2Fhome%2Ftku07gh64o3w%2Fpublic_html%2Fgames%2Fworldhardestgame&dirop=&charset=&file_charset=utf-8&baseurl=&basedir=&edit=1
 
-https://p3plzcpnl489510.prod.phx3.secureserver.net:2083/cpsess5618607049/frontend/paper_lantern/filemanager/editit.html?file=index.html&fileop=&dir=%2Fhome%2Ftku07gh64o3w%2Fpublic_html%2Fgames%2Fducklife&dirop=&charset=&file_charset=utf-8&baseurl=&basedir=&edit=1
+https://p3plzcpnl489510.prod.phx3.secureserver.net:2083/cpsess5618607049/frontend/paper_lantern/filemanager/editit.html?file=index.html&fileop=&dir=%2Fhome%2Ftku07gh64o3w%2Fpublic_html&dirop=&charset=&file_charset=utf-8&baseurl=&basedir=&edit=1
 
 
 
